@@ -38,15 +38,7 @@ public class Ejercicio3 {
         System.out.println("Ingrese anio:    ");
 
         int anio=fecha.nextInt();
-        
-        //No se me ocurrio nada mejor que sumar para averiguar que dia del anio seria :3
-              
-                                        
-          
-          
-          
-         
-          
+                        
         /*
           Usamos swich que es una instruccion de opcion multiple 
           para ejercer una variable que escojamos en este caso los meses
